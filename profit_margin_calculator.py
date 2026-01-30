@@ -1,4 +1,5 @@
 # Profit Margin Calculator (Variables & Basic Arithmetic)
+# This program calculates the profit and profit margin based on user input for revenue and cost.    
 
 # Prompt the user for revenue and cost
 revenue = float(input("What's the revenue? "))
