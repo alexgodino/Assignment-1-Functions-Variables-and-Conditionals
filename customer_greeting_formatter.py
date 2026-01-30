@@ -28,7 +28,6 @@ def format_greeting(name, title="Customer"):
     # Return formatted greeting with title
     return f"Hello, {first_name} ({title})!"
 
-
 # Main code
 full_name = input("What's your full name? ")
 greeting = format_greeting(full_name)
